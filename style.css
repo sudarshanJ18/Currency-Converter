@@ -3,6 +3,22 @@
     padding: 0;
 }
 
+h2{
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: helvetica;
+    color: gray;
+    text-align: center;
+    margin: 10px;
+    padding: 1rem;
+    border: 2px dotted orangered;
+    border-radius: 1rem;
+}
+h2:hover{
+    background-color: rebeccapurple;
+    color: white;
+}
+
 body {
     display: flex;
     justify-content: center;
